@@ -1,5 +1,5 @@
-This is my first line.
-second change
+Git introduction
+
 agenda today:
 1 collaborating with github(cloud based source code hosting)
 
@@ -15,3 +15,7 @@ git push -u origin master
 …or push an existing repository from the command line
 git remote add origin https://github.com/Hub-hube/gitproject.git
 git push -u origin master
+
+Git collaboration with github
+- git push
+- git set upstream
