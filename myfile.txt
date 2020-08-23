@@ -2,3 +2,16 @@ This is my first line.
 second change
 agenda today:
 1 collaborating with github(cloud based source code hosting)
+
+https://github.com/Hub-hube/gitproject.git
+…or create a new repository on the command line
+echo "# gitproject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Hub-hube/gitproject.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin https://github.com/Hub-hube/gitproject.git
+git push -u origin master
